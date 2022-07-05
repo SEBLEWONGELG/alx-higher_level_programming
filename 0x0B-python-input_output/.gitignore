@@ -1,0 +1,5 @@
+*-main*.py
+*.txt
+__pycache__
+*.json
+*my_class*.py
